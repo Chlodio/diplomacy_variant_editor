@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="891.42883"
+   height="186.19901"
+   viewBox="0 0 891.42883 186.19901"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="icons.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4262">
+      <stop
+         style="stop-color:#fefefe;stop-opacity:0;"
+         offset="0"
+         id="stop4260" />
+      <stop
+         style="stop-color:#fefefe;stop-opacity:1;"
+         offset="1"
+         id="stop4258" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-245.53659 : 50.307188 : 1"
+       inkscape:vp_y="-134.27489 : -232.57093 : 0"
+       inkscape:vp_z="-375.44965 : 125.31253 : 1"
+       inkscape:persp3d-origin="-306.32615 : 95.027275 : 1"
+       id="perspective4119" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4055">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4051" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4053" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3605">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3601" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3603" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3505"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3503" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3447"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3445" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3067">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3063" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3065" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3067"
+       id="radialGradient3069"
+       cx="-452.63416"
+       cy="563.07434"
+       fx="-452.63416"
+       fy="563.07434"
+       r="93.098633"
+       gradientTransform="translate(0,-1.8512379e-4)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3605"
+       id="radialGradient3607"
+       cx="-266.43591"
+       cy="563.07434"
+       fx="-266.43591"
+       fy="563.07434"
+       r="93.099609"
+       gradientTransform="matrix(1,0,0,0.99998974,0,0.00577532)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="radialGradient4057"
+       cx="-80.236801"
+       cy="501.00888"
+       fx="-80.236801"
+       fy="501.00888"
+       r="31.033167"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="radialGradient4059"
+       cx="-18.170467"
+       cy="563.0752"
+       fx="-18.170467"
+       fy="563.0752"
+       r="31.033167"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="radialGradient4061"
+       cx="-80.236801"
+       cy="625.14154"
+       fx="-80.236801"
+       fy="625.14154"
+       r="31.033167"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4055"
+       id="radialGradient4063"
+       cx="-142.30313"
+       cy="563.07526"
+       fx="-142.30313"
+       fy="563.07526"
+       r="31.033167"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4262"
+       id="radialGradient4264"
+       cx="97.951096"
+       cy="563.0752"
+       fx="97.951096"
+       fy="563.0752"
+       r="85.088394"
+       gradientTransform="matrix(1,0,0,1.0019701,20,-1.1092936)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3605"
+       id="radialGradient925"
+       cx="496.09839"
+       cy="562.75452"
+       fx="496.09839"
+       fy="562.75452"
+       r="57.399315"
+       gradientTransform="matrix(1,0,0,1.2598467,0,-146.22991)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1138.3509"
+     inkscape:cy="147.17978"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(545.73278,-469.97571)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect1085"
+       width="125.9411"
+       height="113.51218"
+       x="-512.33405"
+       y="513.80652"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/add_vertex.png"
+       inkscape:export-xdpi="65.994499"
+       inkscape:export-ydpi="65.994499" />
+    <path
+       id="path988"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m -452.82849,469.97576 a 93.098785,93.098785 0 0 0 -92.90429,93.09961 93.098785,93.098785 0 0 0 93.09961,93.09766 93.098785,93.098785 0 0 0 93.09765,-93.09766 93.098785,93.098785 0 0 0 -93.09765,-93.09961 93.098785,93.098785 0 0 0 -0.19532,0 z m -17.0625,43.4375 h 34.51368 v 37.71875 h 36.90234 v 23.88477 h -36.90234 v 37.71875 h -34.51368 v -37.71875 h -36.90039 v -23.88477 h 36.90039 z"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/add_vertex.png"
+       inkscape:export-xdpi="65.994499"
+       inkscape:export-ydpi="65.994499" />
+    <path
+       id="path901-5-3"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m -266.62927,469.97576 a 93.098785,93.098785 0 0 0 -92.90625,93.09961 93.098785,93.098785 0 0 0 93.09961,93.09765 93.098785,93.098785 0 0 0 45.50195,-11.87695 l -72.8164,-72.81641 -13.15625,61.42579 -9.68945,-122.88282 132.54101,9.68555 a 93.098785,93.098785 0 0 0 -82.38086,-49.73242 93.098785,93.098785 0 0 0 -0.19336,0 z m 82.57813,49.73828 -71.24414,12.99609 72.08593,72.08594 a 93.098785,93.098785 0 0 0 9.87305,-41.7207 93.098785,93.098785 0 0 0 -10.71484,-43.36133 z"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/move_vertex.png"
+       inkscape:export-xdpi="65.994507"
+       inkscape:export-ydpi="65.994507" />
+    <path
+       id="path1010"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m -184.05505,519.70818 -132.54101,-9.68555 9.68945,122.88282 13.15625,-61.42579 72.8164,72.81641 a 93.098785,93.098785 0 0 0 37.72461,-39.5 l -72.08593,-72.08594 71.24414,-12.99609 a 93.098785,93.098785 0 0 0 -0.004,-0.006 z"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/move_vertex.png"
+       inkscape:export-xdpi="65.994507"
+       inkscape:export-ydpi="65.994507" />
+    <g
+       id="g1081"
+       transform="matrix(0.66667025,0,0,0.66667025,-112.14725,187.69048)"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/connect_vertex.png"
+       inkscape:export-xdpi="65.993912"
+       inkscape:export-ydpi="65.993912">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+         d="M 42.145203,461.47588 151.49884,569.37816 40.093201,666.06591 -47.781006,567.60491 Z"
+         id="path1074" />
+      <g
+         id="g3729">
+        <circle
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+           id="path901-5"
+           cx="47.865417"
+           cy="469.97507"
+           r="46.5495" />
+        <circle
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+           id="path901-5-1"
+           cx="140.96442"
+           cy="563.07404"
+           r="46.5495" />
+        <circle
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+           id="path901-5-1-2"
+           cx="47.865417"
+           cy="656.17303"
+           r="46.5495" />
+        <circle
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+           id="path901-5-1-7"
+           cx="-45.233582"
+           cy="563.0741"
+           r="46.5495" />
+      </g>
+    </g>
+    <path
+       id="path988-0"
+       style="opacity:0.25;fill:url(#radialGradient3069);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m -452.82849,469.97576 a 93.098785,93.098785 0 0 0 -92.90429,93.09961 93.098785,93.098785 0 0 0 93.09961,93.09766 93.098785,93.098785 0 0 0 93.09765,-93.09766 93.098785,93.098785 0 0 0 -93.09765,-93.09961 93.098785,93.098785 0 0 0 -0.19532,0 z m -17.0625,43.4375 h 34.51368 v 37.71875 h 36.90234 v 23.88477 h -36.90234 v 37.71875 h -34.51368 v -37.71875 h -36.90039 v -23.88477 h 36.90039 z"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/add_vertex.png"
+       inkscape:export-xdpi="65.994499"
+       inkscape:export-ydpi="65.994499" />
+    <path
+       id="path901-5-3-3"
+       style="opacity:0.25;fill:url(#radialGradient3607);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m -266.62927,469.97576 a 93.098785,93.098785 0 0 0 -92.90625,93.09961 93.098785,93.098785 0 0 0 93.09961,93.09765 93.098785,93.098785 0 0 0 45.50195,-11.87695 l -72.8164,-72.81641 -13.15625,61.42579 -9.68945,-122.88282 132.54101,9.68555 a 93.098785,93.098785 0 0 0 -82.38086,-49.73242 93.098785,93.098785 0 0 0 -0.19336,0 z m 82.57813,49.73828 -71.24414,12.99609 72.08593,72.08594 a 93.098785,93.098785 0 0 0 9.87305,-41.7207 93.098785,93.098785 0 0 0 -10.71484,-43.36133 z"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/move_vertex.png"
+       inkscape:export-xdpi="65.994507"
+       inkscape:export-ydpi="65.994507" />
+    <circle
+       style="opacity:0.25;fill:url(#radialGradient4057);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.33335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path901-5-37"
+       cx="-80.236801"
+       cy="501.00888"
+       r="31.033167"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/connect_vertex.png"
+       inkscape:export-xdpi="65.993912"
+       inkscape:export-ydpi="65.993912" />
+    <circle
+       style="opacity:0.25;fill:url(#radialGradient4059);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.33336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path901-5-1-5"
+       cx="-18.170467"
+       cy="563.0752"
+       r="31.033167"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/connect_vertex.png"
+       inkscape:export-xdpi="65.993912"
+       inkscape:export-ydpi="65.993912" />
+    <circle
+       style="opacity:0.25;fill:url(#radialGradient4061);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.33336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path901-5-1-2-9"
+       cx="-80.236801"
+       cy="625.14154"
+       r="31.033167"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/connect_vertex.png"
+       inkscape:export-xdpi="65.993912"
+       inkscape:export-ydpi="65.993912" />
+    <circle
+       style="opacity:0.25;fill:url(#radialGradient4063);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.33336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path901-5-1-7-2"
+       cx="-142.30313"
+       cy="563.07526"
+       r="31.033167"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/connect_vertex.png"
+       inkscape:export-xdpi="65.993912"
+       inkscape:export-ydpi="65.993912" />
+    <path
+       id="rect4085"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 106.76614,552.63134 -19.753171,-57.75378 62.337861,-17.0584 40.50897,51.14031 -37.80224,30.3241 42.61596,27.65923 8.36597,61.38841 -82.20888,-52.43951 -78.771771,28.41131 -9.19614,-82.85415 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/territory_edit.png"
+       inkscape:export-xdpi="72.207253"
+       inkscape:export-ydpi="72.207253" />
+    <path
+       id="rect4085-2"
+       style="opacity:0.25;fill:url(#radialGradient4264);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 106.76614,552.63134 -19.753171,-57.75378 62.337861,-17.0584 40.50897,51.14031 -37.80224,30.3241 42.61596,27.65923 8.36597,61.38841 -82.20888,-52.43951 -78.771771,28.41131 -9.19614,-82.85415 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/territory_edit.png"
+       inkscape:export-xdpi="72.207253"
+       inkscape:export-ydpi="72.207253" />
+    <g
+       id="g4378"
+       transform="matrix(1.0846106,0,0,0.83212271,1135.1693,323.96086)"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/political_edit.png"
+       inkscape:export-xdpi="66.454155"
+       inkscape:export-ydpi="66.454155">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6.61007;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+         id="rect4144"
+         width="7.731473"
+         height="187.37073"
+         x="-838.46161"
+         y="207.98534" />
+      <rect
+         style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+         id="rect4144-8"
+         width="18.074188"
+         height="183.43973"
+         x="-836.61444"
+         y="209.95084" />
+      <path
+         id="rect4146"
+         style="opacity:1;fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -836.61444,181.306 c 0,0 94.48841,-0.16148 124.2052,30.39441 39.76978,40.89273 36.03358,167.29089 36.03358,167.29089 -18.2862,-10.08009 -33.28768,-21.77649 -51.88076,-43.52981 -12.24808,-14.32985 -25.2634,-30.09626 -39.04756,-42.44551 -21.27078,-19.05654 -44.37235,-29.97595 -69.31046,-14.92275 z"
+         sodipodi:nodetypes="cacsscc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.6496;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect882"
+       width="104.14903"
+       height="133.97908"
+       x="444.02386"
+       y="495.76498"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/external_edit.png"
+       inkscape:export-xdpi="84.962402"
+       inkscape:export-ydpi="84.962402" />
+    <rect
+       style="fill:url(#radialGradient925);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.6496;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect882-3"
+       width="104.14903"
+       height="133.97908"
+       x="444.02386"
+       y="495.76498"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/external_edit.png"
+       inkscape:export-xdpi="84.962402"
+       inkscape:export-ydpi="84.962402" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.6496;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 548.17289,495.76497 -48.77175,40.27924 -55.37725,-40.27924"
+       id="path884"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/external_edit.png"
+       inkscape:export-xdpi="84.962402"
+       inkscape:export-ydpi="84.962402" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.3855;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect886"
+       width="157.82253"
+       height="157.82253"
+       x="631.84753"
+       y="516.69397"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73.245789"
+       inkscape:export-ydpi="73.245789" />
+    <ellipse
+       style="fill:#020202;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.97133;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path888"
+       cx="710.75879"
+       cy="595.60522"
+       rx="16.652836"
+       ry="18.049219"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73.245789"
+       inkscape:export-ydpi="73.245789" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6.35349;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1058"
+       cx="710.75879"
+       cy="595.60522"
+       rx="34.926029"
+       ry="36.85342"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73"
+       inkscape:export-ydpi="73" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 710.42012,546.21252 V 526.42414"
+       id="path1060"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73"
+       inkscape:export-ydpi="73" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 664.46222,597.47193 h -22.8771"
+       id="path1062"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73"
+       inkscape:export-ydpi="73" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 710.42012,666.21252 V 646.42414"
+       id="path1060-9"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73"
+       inkscape:export-ydpi="73" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 780.46222,597.47193 h -22.8771"
+       id="path1062-1"
+       inkscape:export-filename="/home/chlodio/Pictures/vertex_project/public/icons/coord_edit.png"
+       inkscape:export-xdpi="73"
+       inkscape:export-ydpi="73" />
+  </g>
+</svg>
