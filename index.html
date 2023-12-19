@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  body {
+    margin: 0px;
+  }
+
+  #tabBar {
+    padding-top: 25px;
+  }
+
+  canvas, img {
+    position: absolute;
+    top:0px;
+    left:0px;
+  }
+
+  #tabBar button {
+    width: 32px;
+    height: 32px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  #addVertex {
+    background-image: url("icons/add_vertex.png");
+  }
+
+  #moveVertex {
+    background-image: url("icons/move_vertex.png");
+  }
+
+  #connectVertex {
+    background-image: url("icons/connect_vertex.png");
+  }
+
+  #territoryEdit {
+    background-image: url("icons/territory_edit.png");
+  }
+
+  #coordEdit {
+    background-image: url("icons/coord_edit.png");
+  }
+
+  #politicalEdit {
+    background-image: url("icons/political_edit.png");
+  }
+
+  #loadExternal {
+    background-image: url("icons/external_edit.png");
+  }
+
+  #armyButton {
+    background-image: url("icons/army.png");
+  }
+
+  #fleetButton {
+    background-image: url("icons/fleet.png");
+  }
+
+  #supplyCenterButton {
+    background-image: url("icons/supplyCenter.png");
+  }
+
+  .activeButton {
+    background-color: rgba(0, 255, 0, 0.5); /* green with 50% opacity */
+  }
+
+  #mapPack {
+    position: relative;
+    left: 250px;
+  }
+
+  button {
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    background-blend-mode: overlay;
+  }
+
+  #settingPanel {
+    width: 200px;
+    height: 1080px;
+    background: grey;
+    z-index: 0;
+    position: fixed;
+    padding: 25px 25px;
+    margin: 0px;
+  }
+  #addProvince, #removeProvince {
+    width: 25px;
+    height: 25px;
+  }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React App</title>
+<script defer src="index_bundle.js"></script></head>
+<body>
+    <div id="root"></div>
+</body>
+
+
+</html>
