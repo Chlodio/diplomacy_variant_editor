@@ -16,7 +16,7 @@ const Tab = ({tabMode,setTabMode}) => {
       <button id="loadExternal" disabled={tabMode==-1} onClick={setLoadSel} title="Load and save"></button>
       <button id="addVertex" disabled={tabMode==5} onClick={setAddSel} title="Add vertexes"></button>
       <button id="moveVertex" disabled={tabMode==2} onClick={setMoveSel} title="Move vertexes"></button>
-        <button id="connectVertex" disabled={tabMode==3} onClick={setTerConSel} title="Connect vertex"></button>
+        <button id="connectVertex" disabled={tabMode==3} onClick={setTerConSel} title="Create provinces"></button>
 
       <button id="territoryEdit" disabled={tabMode==0} onClick={setTerSel} title="Edit province"></button>
       <button id="coordEdit" disabled={tabMode==6} onClick={setCoordSel} title="Edit positions"></button>

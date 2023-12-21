@@ -92,7 +92,7 @@ const SettingsPanel = (props) => {
           type="checkbox"
           onClick={setCenterCoord}
           title="Set coordinate?"
-        ></button>
+        >Place name</button>
 
       </div>)
     }
@@ -131,8 +131,9 @@ const SettingsPanel = (props) => {
 
   const handleExternalPanel = function(){
     return <div>
-    <h3>Load</h3>
-    <label htmlFor="rawLoad">Raw map</label>
+    <h3>Load and save</h3>
+    <p id="infobox">You can load raster maps and use them as references. You can also bring previous maps saved as JSON.</p>
+    <label htmlFor="rawLoad">Raster map</label>
     <input id="rawLoad" type="file" onChange={handleRawMapSelect}/>
     <label htmlFor="vertexLoad">Vertex map</label>
     <input id="vertexLoad" type="file" onChange={handleVertexMapSelect}/>
@@ -146,20 +147,42 @@ const SettingsPanel = (props) => {
   const handleTerritoryConnectPanel = function(){
     return <div>
     <div>
-      <label>ID</label>
+      <h3>Create provinces</h3>
+      <p id="infobox">Create a new province and click on vertexes to connect the selected province to it.</p>
+      <label>Province ID</label>
+
       <input id="provId" type="text" value={props.selectedProvID} onChange={handleChangeSelectProvIdByInput} />
     </div>
     <div>
-      <button id="props.addProvince" onClick={props.addProvince}>+</button>
-      <button id="removeProvince" onClick={props.deleteProvince} disabled={props.selectedProvID === 0}>-</button>
-      <button id="clearVertex" onClick={props.clearVertex}>CLR</button>
+      <button id="props.addProvince" onClick={props.addProvince}>Add Prov</button>
+      <button id="removeProvince" onClick={props.deleteProvince} disabled={props.selectedProvID === 0}>Delete Prov</button>
+      <button id="clearVertex" onClick={props.clearVertex}>Clear Vertex</button>
     </div></div>
   }
+
+  const handleMoveVertexesPanel = function(){
+    return <div>
+    <h3>Move vertexes</h3>
+    <p id="infobox">Select a vertex and re-click to set its new location.</p>
+    </div>;
+  }
+
+  const handleAddVertexesPanel = function(){
+    return <div>
+    <h3>Add vertexes</h3>
+    <p id="infobox">Click anywhere to add a new vertex</p>
+    </div>;
+  }
+
 
   const handleTerritoryPanel = function(){
     return <div>
     <div>
-      <label>ID</label>
+    <h3>Edit provinces</h3>
+    <p id="infobox">Determine stuff like province's name, whatever it is  sea, coastal, or land province. Or a supply center.</p>
+    <label>ID</label>
+
+
       <input id="provId" type="text" value={props.selectedProvID} onChange={handleChangeSelectProvIdByInput} />
     </div>
       {handleTerritory()}
@@ -254,7 +277,9 @@ const SettingsPanel = (props) => {
     return (
       <div>
         <div>
-          <label>Tag</label>
+        <h3>Edit countries</h3>
+        <p id="infobox">Add and edit countries</p>
+          <label>Tag ID</label>
           <input type="text" maxLength="3" value={newCountry.tag} onChange={handleTagChange} />
           <label>Name</label>
           <input type="text" value={newCountry.name} onChange={handleCountryNameChange} />
@@ -282,6 +307,10 @@ const SettingsPanel = (props) => {
         return handleExternalPanel();
       case 3:
         return handleTerritoryConnectPanel();
+      case 2:
+        return handleMoveVertexesPanel();
+      case 5:
+        return handleAddVertexesPanel();
       default:
         return "";
     }

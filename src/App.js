@@ -1,7 +1,7 @@
 import React from "react";
 import VertexMap from "./elements/vertexMap";
 
-import {image} from "./stupid.js"
+//import {image} from "./stupid.js"
 
 const App = () =>{
     const [selectionMode, selectionModeChange] = React.useState(0);
@@ -33,16 +33,15 @@ const App = () =>{
       eventPosXChange(event.pageX);
       eventPosYChange(event.pageY);
       if (event.deltaY > 0){
-        changeZoomState(1);
+        //changeZoomState(1);
 
       } else {
-        changeZoomState(2);
+        //changeZoomState(2);
       }
 
     }
 
     const setTabModeHandle = function(arg){
-      console.log("udpated");
       setTabMode(arg);
     }
 
